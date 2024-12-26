@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #1f1f38, #2c2c6c, #4db5ff);
+}
+.main{
+    width: 350px;
+    height: 530px;
+    background-color: #2c2c6c;
+    border-radius: 10px;
+    overflow: hidden;
+    border: 2px solid #2c2c6c;
+    box-shadow: 5px 20px 50px #4db5ff;
+}
