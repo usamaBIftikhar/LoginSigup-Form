@@ -69,3 +69,16 @@ button{
 button:hover{
     background-color: #1f1f38;
 }
+/* Login */
+.login{
+    height: 460 px;
+    background: #4db5ff;
+    border-radius: 60%/10%;
+    transform: translateY(-180px);
+    transition: 0.9s ease-in-out; 
+}
+
+.login label{
+    color: #2c2c6c;
+    transform: scale(.9);
+}
